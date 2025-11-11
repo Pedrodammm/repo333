@@ -1,5 +1,4 @@
 # Repositorio de Entornos de Desarrollo
-<<<<<<< HEAD
 ## Este es el primer repositorio que hemos creado en GIT
 Estamos aprendiendo a trabajar con **GIT** y para eso hemos creado un repositorio. 👦🎓
 ## Algunas ventajas de GIT son 
